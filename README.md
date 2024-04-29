@@ -37,7 +37,7 @@
    `https://raw.githubusercontent.com/SpacehuhnTech/arduino/main/package_spacehuhn_index.json`  
 3. In Arduino go to `Tools` -> `Board` -> `Boards Manager` search for and install the `deauther` package  
 4. Download [V3 source code](https://github.com/SpacehuhnTech/esp8266_deauther/archive/v3.zip) and unzip it  
-   or `git clone https://github.com/SpacehuhnTech/esp8266_deauther`, `cd esp8266` and `git checkout v3`
+   or `git clone https://github.com/SpacehuhnTech/esp8266_deauther`, `cd esp8266_deauther` and `git checkout v3`
 5. Open `esp8266_deauther/esp8266_deauther.ino` with Arduino
 6. Select an `ESP8266 Deauther` board in Arduino under `tools` -> `board`
 7. Connect your device and select the serial port in Arduino under `tools` -> `port`
